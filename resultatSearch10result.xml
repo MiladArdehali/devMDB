@@ -1,0 +1,235 @@
+<searchresult>
+   <query>office</query>
+   <document id="0" language="en">
+      <snippet>Office Shoes online shoe shop, presenting all the latest high street fashion footwear trends- free delivery.</snippet>
+      <title>Shoes &amp; Footwear Online High Street Fashion Shoes at Office UK</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Google</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>http://www.office.co.uk/</url>
+   </document>
+   <document id="1" language="en">
+      <snippet>From desktop to web for Macs and PCs, Office delivers the tools to get work done. View product information or sign in to Office 365.</snippet>
+      <title>Microsoft Office | Productivity Tools for Home &amp; Office</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>https://products.office.com/en-us/home</url>
+   </document>
+   <document id="2" language="en">
+      <snippet>Microsoft Office is an office suite of applications, servers, and services developed by Microsoft. It was first announced by Bill Gates on 1 August 1988, …</snippet>
+      <title>Microsoft Office - Wikipedia</title>
+      <sources class="java.util.ArrayList">
+         <source>Google</source>
+         <source>Wikipedia</source>
+      </sources>
+      <url>https://en.wikipedia.org/wiki/Microsoft_Office</url>
+   </document>
+   <document id="3" language="en">
+      <snippet>An office is generally a room or other area where administrative work is done, but may also denote a position within an organization with specific duties attached …</snippet>
+      <title>Office - Wikipedia</title>
+      <sources class="java.util.ArrayList">
+         <source>Google</source>
+         <source>Wikipedia</source>
+      </sources>
+      <url>https://en.wikipedia.org/wiki/Office</url>
+   </document>
+   <document id="4" language="en">
+      <snippet>Help for all Office apps. Set up your Office 365 subscription. Find how-to articles and video tutorials. Contact our Answer Techs for assisted support.</snippet>
+      <title>Microsoft Office help and training - Office Support</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>https://support.office.com/</url>
+   </document>
+   <document id="5" language="en">
+      <snippet>The USPTO is the Federal agency for granting U.S. patents and registering trademarks. The USPTO registers trademarks based on the Commerce clause of the Constitution.</snippet>
+      <title>United States Patent and Trademark Office</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>http://www.uspto.gov/</url>
+   </document>
+   <document id="6" language="en">
+      <snippet>A multiplatform and multilingual office suite and an open-source project. Compatible with all other major office suites, free to download, use, and distribute.</snippet>
+      <title>Apache OpenOffice - Official Site - The …</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>http://www.openoffice.org/</url>
+   </document>
+   <document id="7" language="en">
+      <snippet>26.05.2013 · The Office is a hilarious documentary-style look into the humorous and sometimes poignant foolishness that plagues the world of 9-to-5.</snippet>
+      <title>The Office - NBC.com</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>http://www.nbc.com/the-office</url>
+   </document>
+   <document id="8" language="en">
+      <snippet>Shop for office supplies at Office Depot. From basic office supplies such as printer paper and labels to office equipment like file cabinets and stylish office furniture.</snippet>
+      <title>Office Depot &amp; OfficeMax: Office Supplies and Furniture</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>http://www.officedepot.com/</url>
+   </document>
+   <document id="9" language="en">
+      <snippet>Online printing, shipping and packaging services from FedEx Office. Price your shipment, print project or find a FedEx near you …</snippet>
+      <title>Online Printing - Copy, Print, Pack and Ship - FedEx Office</title>
+      <sources class="java.util.ArrayList">
+         <source>Bing</source>
+         <source>Yahoo</source>
+      </sources>
+      <url>http://www.fedex.com/us/office/</url>
+   </document>
+   <group id="0" size="3" score="1.0">
+      <title>
+         <phrase>Microsoft Office</phrase>
+      </title>
+      <attribute key="label-scores">
+         <value>
+            <wrapper class="org.carrot2.util.simplexml.ListSimpleXmlWrapper">
+               <list>
+                  <value type="java.lang.Double" value="1.0"/>
+               </list>
+            </wrapper>
+         </value>
+      </attribute>
+      <document refid="1"/>
+      <document refid="2"/>
+      <document refid="4"/>
+   </group>
+   <group id="1" size="2" score="0.9042147077142302">
+      <title>
+         <phrase>Office Suite</phrase>
+      </title>
+      <attribute key="label-scores">
+         <value>
+            <wrapper class="org.carrot2.util.simplexml.ListSimpleXmlWrapper">
+               <list>
+                  <value type="java.lang.Double" value="0.9492091249454536"/>
+               </list>
+            </wrapper>
+         </value>
+      </attribute>
+      <document refid="2"/>
+      <document refid="6"/>
+   </group>
+   <group id="2" size="2" score="0.8747072272116959">
+      <title>
+         <phrase>Wikipedia</phrase>
+      </title>
+      <attribute key="label-scores">
+         <value>
+            <wrapper class="org.carrot2.util.simplexml.ListSimpleXmlWrapper">
+               <list>
+                  <value type="java.lang.Double" value="0.888268375644894"/>
+               </list>
+            </wrapper>
+         </value>
+      </attribute>
+      <document refid="2"/>
+      <document refid="3"/>
+   </group>
+   <group id="3" size="2" score="0.8549459298046937">
+      <title>
+         <phrase>Services</phrase>
+      </title>
+      <attribute key="label-scores">
+         <value>
+            <wrapper class="org.carrot2.util.simplexml.ListSimpleXmlWrapper">
+               <list>
+                  <value type="java.lang.Double" value="0.8485864034014264"/>
+               </list>
+            </wrapper>
+         </value>
+      </attribute>
+      <document refid="2"/>
+      <document refid="9"/>
+   </group>
+   <group id="4" size="2" score="0.8549459298046937">
+      <title>
+         <phrase>Shop</phrase>
+      </title>
+      <attribute key="label-scores">
+         <value>
+            <wrapper class="org.carrot2.util.simplexml.ListSimpleXmlWrapper">
+               <list>
+                  <value type="java.lang.Double" value="0.8485864034014264"/>
+               </list>
+            </wrapper>
+         </value>
+      </attribute>
+      <document refid="0"/>
+      <document refid="8"/>
+   </group>
+   <group id="5" size="2" score="0.0">
+      <title>
+         <phrase>Other Topics</phrase>
+      </title>
+      <attribute key="label-scores">
+         <value>
+            <wrapper class="org.carrot2.util.simplexml.ListSimpleXmlWrapper">
+               <list>
+                  <value type="java.lang.Double" value="-1.0"/>
+               </list>
+            </wrapper>
+         </value>
+      </attribute>
+      <attribute key="other-topics">
+         <value type="java.lang.Boolean" value="true"/>
+      </attribute>
+      <document refid="5"/>
+      <document refid="7"/>
+   </group>
+   <attribute key="MultilingualClustering.languageCounts">
+      <value>
+         <wrapper class="org.carrot2.util.simplexml.MapSimpleXmlWrapper">
+            <map>
+               <entry string="en">
+                  <value type="java.lang.Integer" value="10"/>
+               </entry>
+            </map>
+         </wrapper>
+      </value>
+   </attribute>
+   <attribute key="processing-time-algorithm">
+      <value type="java.lang.Long" value="8"/>
+   </attribute>
+   <attribute key="SearchEngineBase.compressed">
+      <value type="java.lang.Boolean" value="true"/>
+   </attribute>
+   <attribute key="SearchEngineStats.queries">
+      <value type="java.lang.Integer" value="0"/>
+   </attribute>
+   <attribute key="processing-time-source">
+      <value type="java.lang.Long" value="272"/>
+   </attribute>
+   <attribute key="SearchEngineStats.pageRequests">
+      <value type="java.lang.Integer" value="0"/>
+   </attribute>
+   <attribute key="MultilingualClustering.majorityLanguage">
+      <value value=""/>
+   </attribute>
+   <attribute key="max-hierarchy-depth">
+      <value value="5"/>
+   </attribute>
+   <attribute key="processing-time-total">
+      <value type="java.lang.Long" value="280"/>
+   </attribute>
+   <attribute key="results">
+      <value value="10"/>
+   </attribute>
+   <attribute key="results-total">
+      <value type="java.lang.Long" value="10"/>
+   </attribute>
+</searchresult>
